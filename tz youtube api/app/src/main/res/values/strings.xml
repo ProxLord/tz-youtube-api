@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TZ YOUTUBE</string>
+    <string name="title_video">TZ YouTube</string>
+    <string name="search_video">Поиск видео</string>
+    <string name="video_thumbnail">Video Thumbnail</string>
+    <string name="save_info">Сохранить</string>
+</resources>

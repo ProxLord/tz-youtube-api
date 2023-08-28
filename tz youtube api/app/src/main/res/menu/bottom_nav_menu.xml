@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_round_slow_motion_video_24"
+        android:title="@string/title_video" />
+    <item
+        android:id="@+id/save_info"
+        android:icon="@drawable/baseline_save_24"
+        android:title="@string/save_info"/>
+
+</menu>
